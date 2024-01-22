@@ -1,2 +1,1 @@
-# Ghost-jarry
-I try to my best
+<h1 align="center">Ghost-jarry</h1>
